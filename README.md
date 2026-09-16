@@ -74,12 +74,19 @@ Some areas I explore:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaGoyalTechnologies&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" height="165" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaGoyalTechnologies&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages">
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=AdityaGoyalTechnologies&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+<a href="https://github.com/AdityaGoyalTechnologies">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdityaGoyalTechnologies&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" height="170" alt="Aditya Goyal GitHub Stats" />
+</a>
+
+<a href="https://github.com/AdityaGoyalTechnologies?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaGoyalTechnologies&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Aditya Goyal Top Languages" />
+</a>
+
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=AdityaGoyalTechnologies&theme=tokyonight&hide_border=true" alt="Aditya Goyal GitHub Contribution Streak" />
+
 </div>
 
 ---
@@ -87,10 +94,11 @@ Some areas I explore:
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdityaGoyalTechnologies&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AdityaGoyalTechnologies&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Aditya Goyal GitHub Trophies" />
+
 </div>
 
----
 
 ## 🌐 Connect With Me
 
